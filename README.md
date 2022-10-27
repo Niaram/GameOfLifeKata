@@ -1,2 +1,2 @@
-# GameOfLikeKata
-Kata Game of Like from https://codingdojo.org/kata/GameOfLife/
+# Game of Life Kata
+Kata Game of Life from https://codingdojo.org/kata/GameOfLife/
