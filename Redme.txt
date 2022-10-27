@@ -1,3 +1,0 @@
-Implementation of https://codingdojo.org/kata/GameOfLife/
-
-Focus on implementation, not on UI :D
